@@ -1,0 +1,46 @@
+div {
+    border-radius: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.theme {
+    background-color: ghostwhite;
+    height: 300px;
+}
+.options {
+    height: 70px;
+    background-color: gainsboro;
+}
+
+button{
+    border: hidden;
+    border-radius: 5px;
+    font-size: 17px;
+    height: 40px;
+    width: 70px;
+    margin: 15px 5px 5px 0px;
+
+}
+img{
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+
+}
+
+.label {
+    font-size: large;
+    margin-top: 3px;
+
+}
+
+.light {
+    background-color: ghostwhite;
+}
+.dark {
+    background-color: lightsteelblue;
+}
+.ninja {
+    background-color: darkgray;
+}
